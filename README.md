@@ -1,2 +1,7 @@
 # installation_scripts
-Some installation scripts for languages and frameworks
+Some installation scripts for languages and framework
+
+
+
+## Go language installation
+[[goinstall.sh]]
